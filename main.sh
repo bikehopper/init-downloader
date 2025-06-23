@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # S3 Copy Script
 # Reads source:destination pairs from S3_COPY_LIST environment variable
 # Format: "source1:dest1,source2:dest2,source3:dest3"
